@@ -1,0 +1,21 @@
+{
+    "type": "ally",
+    "components" : {
+        "Health" : 500,
+        "Transform" : {
+            "position": {
+                "x": 200,
+                "y": 50
+            },
+            "scale": {
+                "x": 1.2,
+                "y": 1
+            }
+        },
+        "Render": {
+            "path": "../sprites/boabao.jpg",
+            "display": "1"
+        },
+        "RigidBody": "true"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "type": "ally",
+    "components" : {
+        "Health" : 500,
+        "Transform" : {
+            "position": {
+                "x": 10,
+                "y": 50
+            },
+            "scale": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "Render": {
+            "path": "../sprites/r-typesheet1.gif",
+            "display": "1"
+        },
+        "RigidBody": "true",
+        "Shot": {
+            "path": "../src/game_engine/shots/shot.json",
+            "from": "ally"
+        },
+        "Animator": {
+            "origin": {
+                "x": 3,
+                "y": 0
+            },
+            "rect": {
+                "x": 33, 
+                "y": 15
+            },
+            "padding": {
+                "x": 2,
+                "y": 2
+            },
+            "frames" : {
+                "x": 5,
+                "y": 1
+            },
+            "rewind": "true",
+            "loop": "true"
+        }
+    }
+}

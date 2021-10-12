@@ -1,0 +1,48 @@
+{
+    "type": "ennemy",
+    "components" : {
+        "Health" : 500,
+        "Transform" : {
+            "position": {
+                "x": 1180,
+                "y": 645
+            },
+            "scale": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "Render": {
+            "path": "../sprites/r-typesheet7.gif",
+            "display" : "1"
+        },
+        "Rigibody": "true",
+        "Animator": {
+            "origin": {
+                "x": 0,
+                "y": 0
+            },
+            "rect": {
+                "x": 33,
+                "y": 34
+            },
+            "padding": {
+                "x": 0,
+                "y":0
+            },
+            "frames" : {
+                "x": 3,
+                "y": 1
+            },
+            "rewind": "true",
+            "loop": "true"
+        },
+        "Behavior": {
+            "move": {
+                "x": -150,
+                "y": 0
+            }
+        }
+    },
+    "scene": "menu"
+}

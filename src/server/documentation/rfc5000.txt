@@ -1,0 +1,72 @@
+
+
+
+
+
+
+Network Working Group                                         J. Postel
+Request for Comments: 0                                     E. Despagne
+Obsoletes RFC:                                                  EPITECH
+Category: Experimental                                    November 2019
+
+                         R-TYPE PROTOCOL (UDP)
+
+Status of this Memo
+
+   This memo defines an Experimental Protocol for the Internet
+   community.  This memo does not specify an Internet standard of any
+   kind.  Discussion and suggestions for improvement are requested.
+   Distribution of this memo is unlimited.
+
+Copyright Notice
+
+   Copyright (C) The Internet Society (1997).  All Rights Reserved.
+
+1.  Introduction
+
+   This Request for Comments (RFC) provides information about the
+   r-type communication protocol between the server and the client.
+
+   The RFC series of notes covers a broad range of interests. The core
+   topics are the rules of the game and the UDP protocol suite.
+   However, any topic related to client / server communication may be
+   acceptable at the discretion of the RFC Editor.
+
+   This protocol is intended to provide a specific service
+   and be used between special purpose units such as terminal
+   servers or routers and a monitoring host.
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
+   NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   RFC 2119.
+
+Despagne                    Experimental                       [Page 1]
+
+RFC 5000                   R-type protocol                November 2019
+
+    2. MENU RULES
+        1.1  Main Menu Codes
+         520
+         521
+         522
+
+        1.2  Creating Game Codes
+         600
+         601
+         602
+
+        1.3 List Server Codes
+         530
+         531
+         532
+
+   3. GAME RULES
+       2.1 Game Actions Codes
+        622
+        625
+        626
+        627
+        628
+        629
+

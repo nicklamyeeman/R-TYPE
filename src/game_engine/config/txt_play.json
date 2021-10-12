@@ -1,0 +1,19 @@
+{
+    "components" : {
+       "Transform" : {
+            "position": {
+                "x": 300,
+                "y": 300
+            },
+            "scale": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "Render": "./sprites/r-typesheet41.gif",
+        "Event" : {
+            "onClick" : "subMenu"
+        }
+    },
+    "scene": "menu"
+}
