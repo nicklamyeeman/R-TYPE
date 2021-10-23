@@ -39,4 +39,4 @@ else ()
   set_property(TARGET r-type_client PROPERTY CXX_STANDARD_REQUIRED ON)
 endif ()
 
-target_link_libraries(r-type_client ${CONAN_LIBS} sfml-graphics sfml-window sfml-system sfml-audio)
+target_link_libraries(r-type_client ${CONAN_LIBS})
