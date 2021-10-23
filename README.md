@@ -146,7 +146,9 @@ The game also includes bosses
 ### BE CAREFUL
 
 1 - Please read carefully how to use conan properly !
+
 2 - Be sure you are in the build/ directory before playing with the client
+
 3 - Do not play this game lol, this is a technical project with many problems, please go find another project easier to play. This one is an archive of how hard that was to work with conan / cmake and sfml encapsulation in c++ client side and server side.
 
 <!-- ROADMAP -->
