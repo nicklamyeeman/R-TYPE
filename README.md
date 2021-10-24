@@ -170,10 +170,10 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 We were 4 originally on this project : 
- - LAM YEE MAN Nick
- - DEMEESTER Alexandre
- - MALARDE Arthur
- - DESPAGNE Eddy
+ - [LAM YEE MAN Nick](https://github.com/nicklamyeeman)
+ - [DEMEESTER Alexandre](https://github.com/rokuo)
+ - [MALARDE Arthur](https://github.com/arthurqqq)
+ - [DESPAGNE Eddy](https://github.com/Minijinski)
 
 
 
